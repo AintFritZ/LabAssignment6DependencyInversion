@@ -9,3 +9,6 @@ Your solution should not violate other SOLID principles.
 Create a repository in your GitHub account. Put your solution there. In the readMe file must include the problem statement, UML Class Diagram of Proposed solution.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
+
+![UML Diagram](https://github.com/AintFritZ/LabAssignment6DependencyInversion/assets/114860898/08180762-bcb4-41c7-9d84-42e171407fde)
+
