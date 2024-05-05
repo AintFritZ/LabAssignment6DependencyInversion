@@ -10,5 +10,5 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
-![UML Diagram](https://github.com/AintFritZ/LabAssignment6DependencyInversion/assets/114860898/08180762-bcb4-41c7-9d84-42e171407fde)
+![UML](https://github.com/AintFritZ/LabAssignment6DependencyInversion/assets/114860898/7cf79fcc-f3e7-48b9-b819-6fe0365a27cc)
 
