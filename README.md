@@ -10,5 +10,5 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
-![Assignment](https://github.com/AintFritZ/LabAssignment6DependencyInversion/assets/114860898/0d8ec820-911c-4799-8f8b-8ae3f611aa56)
+![Assignment (1)](https://github.com/AintFritZ/LabAssignment6DependencyInversion/assets/114860898/b7b13e10-519c-4bd3-ae4c-5157c11f48e1)
 
